@@ -11,9 +11,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
 
+
 ## 🌍 Let's Connect  
-[![LinkedIn](https://www.linkedin.com/in/samruddhi-lehekar/)  
-[![Blog](https://hashnode.com/@samruddhilehekar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samruddhi-lehekar/)  
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@samruddhilehekar)  
 
 ---
 💡 **"Keep Learning, Keep Building!"** 🚀
